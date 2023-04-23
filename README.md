@@ -1,13 +1,9 @@
 <p align="center">
-<img src="https://i.imgur.com/ZOUm27S.png" alt="osTicket logo"/>
+<img src="https://imgur.com/2HTI083.png" alt="osTicket logo"/>
 </p>
 <h1>osTicket - Post-Install Configuration and Usage</h1>
 This tutorial outlines the post-install configuration and some of the usage of the open-source help desk ticketing system. We will essentialy show here how we can work in osTicket system as an Admin by creating users, departments, setting up and giving permission levels.on one hand and how we can actually act as a profesional helpdesk responding to tickets and resolving issues on the other hand.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -19,7 +15,7 @@ This tutorial outlines the post-install configuration and some of the usage of t
 <h2>Configuration Steps:</p>
 </p>
 </p>
-Please, note that all the bellow manip are as Admin.</p>
+Please, note that all the below assignments are as Admin.</p>
 </p>
 Step 1. Configure Roles: </p>
 * Admin Panel -> Agents -> Roles <p>
@@ -79,5 +75,4 @@ Password Reset<p>
 <img src="https://i.imgur.com/wYdDoWH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
-Thank You for reading!
-For the the next tutorial in this series go [here]()
+
