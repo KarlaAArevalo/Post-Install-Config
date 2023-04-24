@@ -44,16 +44,16 @@ Step 4. Allow anyone to create tickets: </p>
 <img src="https://i.imgur.com/oAKkhUb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- Step 5. Configure Agents (Workers who will work on the tickets): </p>
+Step 5. Configure Agents (Workers who will work on the tickets): </p>
 * Admin Panel -> Agents -> Add New Agent <p>
 * New Agent created: Jane Doe
 <p>
-<img src="https://i.imgur.com/Ex7x7b1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/M7pElz1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
 Step 6. Configure Users Directory (customers): </p>
 * Agent Panel -> Users -> User Directory -> Add User <p>
 * New User created: Asia Asia <p>
-<img src="https://i.imgur.com/d8b3qTQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/s0SIZs8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br>
  Step 7. Configure SLA (Service Level Agreements): </p>
 * Admin Panel -> Manage -> SLA -> Add New SLA <p>
@@ -65,14 +65,17 @@ Sev-C (8 hours, business hours)<p>
 <img src="https://i.imgur.com/vMtmeG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Step8. Configure Help Topics: </p>
+
 * Admin Panel -> Manage ->Help Topics -> Add New Help Topic <p>
 * For the purposes of testing create four topics:<p>
+* For the purposes of testing, let's create four topics:<p>
 Business Critical Outage<p>
 Personal Computer Issues<p>
 Equipment Request<p>
 Password Reset<p> 
+
 <p>
 <img src="https://i.imgur.com/wYdDoWH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Qy6iv5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <img src="https://i.imgur.com/q35AGpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br>
-
